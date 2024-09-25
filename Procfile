@@ -1,1 +1,1 @@
-worker: python3 -m MyTgBot
+worker: python3 -m bot.py
